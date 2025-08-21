@@ -23,7 +23,7 @@ export default function Home() {
           </div>
 
           <button
-            className="rounded-full mt-5 z-50 px-6 py-1.5 text-xl text-white border border-white/10 hover:bg-white/5 transition-colors duration-200"
+            className="rounded-full font-inter mt-5 z-50 px-6 py-1.5 text-xl text-white border border-white/10 hover:bg-white/5 transition-colors duration-200"
             style={{
               background: `radial-gradient(
                 circle at center,
